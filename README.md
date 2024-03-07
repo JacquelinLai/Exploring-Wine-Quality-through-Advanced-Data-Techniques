@@ -1,7 +1,7 @@
 # IS 447 Final Project: Exploring Wine Quality through Advanced Data Techniques
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10232491.svg)](https://doi.org/10.5281/zenodo.10232491)
 
-## Mark: The ownership of content in IS477-Fall2023-project repository is shared by the following team members
+## Mark: The ownership of IS477-Fall2023-project repository is shared by the following team members, the content within this repository is migrated to the current repository named Exploring-Wine-Quality-through-Advanced-Data-Techniques under Jacquelin Lai's github repository
 
 - Jacquelin Lai (shanrou2@illinois.edu)
 - Zhifeng Wang (zhifeng5@illinois.edu)
